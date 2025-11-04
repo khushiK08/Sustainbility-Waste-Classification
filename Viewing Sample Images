@@ -1,0 +1,33 @@
+# Path setup
+base_path = '/kaggle/input/waste-classification-data/DATASET/TRAIN'
+categories = ['O', 'R']
+
+
+fig, axes = plt.subplots(nrows=2, ncols=3, figsize=(12, 6))
+
+for row, category in enumerate(categories):
+    category_path = os.path.join(base_path, category)
+    image_files = os.listdir(category_path)
+    selected_images = random.sample(image_files, 3)
+
+    for col, img_file in enumerate(selected_images):
+        img_path = os.path.join(category_path, img_file)
+        img = Image.open(img_path)
+
+        ax = axes[row][col]
+        ax.imshow(img)
+        ax.set_title(category)
+        ax.axis('off')
+
+plt.tight_layout()
+plt.show()
+
+train_dir = '/kaggle/input/waste-classification-data/DATASET/TRAIN'
+
+labels = ['O', 'R']
+counts = [len(os.listdir(os.path.join(train_dir, label))) for label in labels]
+
+plt.pie(counts, labels=labels, autopct='%1.1f%%')
+plt.title("TRAIN Data Class Distribution")
+plt.axis('equal')
+plt.show()
