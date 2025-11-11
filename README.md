@@ -6,4 +6,5 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 # Overview
 There are 'cardboard', 'compost', 'glass', 'metal', 'paper', 'plastic', 'trash' total 7 different types of waste materials which are use for recycling.
 Here i have trained dataset using VGG16,RESNET50 model via using Transfer Learning technique of CNN for classification.
-# VGG16
+#   Week 2
+In this week i have upoad the data set and using this dataset i have train my model using VGG16 and RESNET50.
