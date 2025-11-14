@@ -8,3 +8,4 @@ There are 'cardboard', 'compost', 'glass', 'metal', 'paper', 'plastic', 'trash' 
 Here i have trained dataset using VGG16,RESNET50 model via using Transfer Learning technique of CNN for classification.
 #   Week 2
 In this week i have upoad the data set and using this dataset i have train my model using VGG16 and RESNET50.
+# Introduction of Tranfer Learning and Fine Tuning
