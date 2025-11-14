@@ -9,3 +9,5 @@ Here i have trained dataset using VGG16,RESNET50 model via using Transfer Learni
 #   Week 2
 In this week i have upoad the data set and using this dataset i have train my model using VGG16 and RESNET50.
 # Introduction of Tranfer Learning and Fine Tuning
+![67788](https://github.com/user-attachments/assets/b15bf00f-e2a1-44c9-b5ca-3cbac080687e)
+![8098](https://github.com/user-attachments/assets/2200ab39-9046-4910-80d3-efa276207a52)
