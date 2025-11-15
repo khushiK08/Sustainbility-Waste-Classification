@@ -13,12 +13,15 @@ In this week i have upoad the data set and using this dataset i have train my mo
 ![8098](https://github.com/user-attachments/assets/2200ab39-9046-4910-80d3-efa276207a52)
 
 # VGG16 Architeture using Tranfer Learning
+
 # Loss Plot of VGG16
 <img width="372" height="248" alt="LossVal_loss" src="https://github.com/user-attachments/assets/f2199f1a-1a37-4027-bdbe-c0b35b699c5c" />
+
 # Accuracies Plot of VGG16
 <img width="378" height="248" alt="AccVal_acc" src="https://github.com/user-attachments/assets/03957b9a-d847-47ed-a679-16357ad6db50" />
 
 # ResNet50 Architeture using Tranfer Learning
+
 # Loss Plot of ResNet50
 <img width="372" height="248" alt="ResNet_Loss" src="https://github.com/user-attachments/assets/5c5fe06d-438a-41c6-b8b7-0c477108c32d" />
 
