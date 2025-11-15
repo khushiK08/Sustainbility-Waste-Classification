@@ -5,7 +5,8 @@ In this project, I developed a Smart Waste Classification system using deep lear
 # Problem Statement
 The problem is preety much stright forward, we all are famelier with Garbage and waste material which is very harmful for our society.If we talk about amount of waste then the world almost generates at least 5 million tons of waste per day and this number is still increasing day by day that's why we need to aware about waste. This model which help us to classify waste with 7 different waste materials and it will show you the details of that particular waste materials. This will help to raise awareness for people to reduce and recycle waste.
 # Overview
-There are 'cardboard', 'compost', 'glass', 'metal', 'paper', 'plastic', 'trash' total 7 different types of waste materials which are use for recycling.
+
+*There are 'cardboard', 'compost', 'glass', 'metal', 'paper', 'plastic', 'trash' total 7 different types of waste materials which are use for recycling.
 
 *Here i have 2187 images belonging 7 classes.
 
